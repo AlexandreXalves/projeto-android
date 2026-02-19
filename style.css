@@ -106,6 +106,7 @@ main h2 {
     text-indent: 1em;
     padding: 15px;
     color: var(--cor4);
+    background-image: linear-gradient(to left, var(--cor2), traparent);
 }
 
 main p {
