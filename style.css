@@ -106,9 +106,9 @@ main h2 {
     text-indent: 1em;
     padding: 15px;
     color: var(--cor4);
-    background-image: linear-gradient(to left, var(--cor2), traparent);
+    background-image: linear-gradient(to right, rgb(144, 212, 144), transparent);
 }
-
+    
 main p {
     text-indent: 2em;
     font-family: var(--fonte-padra);
